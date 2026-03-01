@@ -6,9 +6,9 @@ Comprehensive project for tracking customer interactions and sales intelligence 
 
 This repository consolidates several components of the system:
 
-- **admin-portal**: The management dashboard for administrators to monitor store performance, manage salespersons, and view customer analytics.
+- **admin-frontend**: The management dashboard for administrators to monitor store performance, manage salespersons, and view customer analytics.
 - **admin-backend**: Backend services for the administration system.
-- **mobile-app**: The mobile application for salespersons to record customer interactions.
+- **mobile-frontend**: The primary mobile application for salespersons to record customer interactions.
 - **mobile-backend**: Backend services supporting the mobile application.
 - **salesperson-portal**: A web-based portal for salespersons.
 - **unified-app**: A unified application interface.
